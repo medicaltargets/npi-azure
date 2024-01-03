@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-npi123456",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6bcc19b7-82f0-440b-9d72-ab44d175164e",
+		"tenantId": "beeb9527-07f6-469c-b038-025cbb724dfa"
+	}
+}
